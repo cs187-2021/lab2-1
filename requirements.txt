@@ -1,3 +1,4 @@
 torch
 torchtext>=0.9.0
 otter-grader==1.0.0
+wget
